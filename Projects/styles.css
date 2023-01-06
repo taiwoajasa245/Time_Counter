@@ -1,0 +1,23 @@
+*{ 
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box; 
+}
+
+body{ 
+    background: rgb(0, 0, 0); 
+    color: #ffffff; 
+}
+
+.wrapper{ 
+    width: 100%; 
+    height: 100vh; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+
+.wrapper h1 {
+    font-size: 100px;
+    font-family: cursive;
+}
